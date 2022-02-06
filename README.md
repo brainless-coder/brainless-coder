@@ -6,25 +6,25 @@
 `✨A learner, innovator and a developer, always keen to learn new things. Trying to make change in the society by using my skills.`
 
 
-- 🌱 Currently, I am solving *DSA questions on Leetcode* and exploring **Flutter and Express JS.**
+- 🌱 Currently, I am solving *DSA questions on Leetcode* and exploring **Flutter, Express JS and React.**
 
-- 💬 Ask me about **Flutter | DSA | Back end**
+- 💬 Ask me about **Flutter | DSA | MERN**
 
 - 📫 How to reach me **singhamish27@gmail.com**
 
-- 📄 [My Resume](https://drive.google.com/file/d/174tcopUKNtH4OaUh6F1t-FK-VOyj441L/view)
+- 📄 [My Resume](https://drive.google.com/file/d/1muA7vhYyWE8-CNMkyUTGeAas1n6YMlkb/view?usp=sharing)
 
-- ⚡ Fun fact **Probably Coding | Trading | watching Youtube Videos | sleeping right now ☺**
+- ⚡ Fun fact **Probably Coding | Trading | watching Youtube | sleeping right now ☺**
 
 <br>
 <p align="left">
-<h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/brainless-coder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="brainless-coder" height="30" width="40" /></a>
-<a href="https://instagram.com/arvind_prime_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="arvind_prime" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/heartlesscoder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="heartlesscoder" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/brainless_coder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="brainless_coder" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/brainless-coder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="brainless-coder" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/brainless-coder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="brainless-coder" height="30" width="40" /></a>
+  <h3 align="left">Connect with me:</h3>
+  <a href="https://linkedin.com/in/brainless-coder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="brainless-coder" height="30" width="40" /></a>
+  <a href="https://instagram.com/arvind_prime_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="arvind_prime" height="30" width="40" /></a>
+  <a href="https://www.codechef.com/users/heartlesscoder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="heartlesscoder" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/brainless_coder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="brainless_coder" height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/brainless-coder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="brainless-coder" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/brainless-coder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="brainless-coder" height="30" width="40" /></a>
 </p>
 
 <br>
